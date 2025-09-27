@@ -1,8 +1,9 @@
 APClips
+Audiojungle
+Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
-GitBook
 HackerEarth
 Heavy-R
 LessWrong
@@ -23,4 +24,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
