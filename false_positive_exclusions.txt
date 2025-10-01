@@ -1,6 +1,8 @@
 APClips
+Coders Rank
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
 LessWrong
@@ -18,7 +20,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
