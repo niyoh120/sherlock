@@ -1,11 +1,11 @@
 APClips
+BoardGameGeek
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
