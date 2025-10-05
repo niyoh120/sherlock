@@ -1,6 +1,7 @@
 APClips
 BoardGameGeek
-DeviantArt
+Coders Rank
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
@@ -8,10 +9,9 @@ Heavy-R
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
-Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
@@ -20,4 +20,4 @@ YandexMusic
 kaskus
 opennet
 svidbook
-threads
+xHamster
