@@ -1,6 +1,4 @@
 APClips
-DeviantArt
-GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -15,5 +13,4 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
