@@ -1,6 +1,4 @@
 APClips
-Audiojungle
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
