@@ -1,4 +1,5 @@
 APClips
+Flipboard
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,10 +11,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-kaskus
-opennet
+nnRU
 svidbook
-xHamster
