@@ -1,6 +1,6 @@
 APClips
-Flipboard
-GNOME VCS
+Coders Rank
+DeviantArt
 Giphy
 HackerEarth
 Heavy-R
@@ -11,7 +11,8 @@ Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
-nnRU
 svidbook
+xHamster
