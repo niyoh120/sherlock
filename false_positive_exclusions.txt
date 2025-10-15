@@ -1,11 +1,8 @@
 APClips
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 Heavy-R
-Itch.io
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -15,5 +12,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
+programming.dev
 svidbook
