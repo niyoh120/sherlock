@@ -1,19 +1,17 @@
 APClips
-Academia.edu
+Chess
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
