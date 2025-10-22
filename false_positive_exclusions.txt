@@ -1,6 +1,5 @@
 APClips
-BreachSta.rs Forum
-Carbonmade
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -10,7 +9,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Velomania
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
