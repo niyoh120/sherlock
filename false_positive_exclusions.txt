@@ -2,7 +2,6 @@ APClips
 DeviantArt
 GNOME VCS
 Giphy
-LushStories
 PocketStars
 Reddit
 RocketTube
@@ -11,5 +10,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
