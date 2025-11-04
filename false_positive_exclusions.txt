@@ -7,12 +7,12 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
-Strava
 Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
-xHamster
