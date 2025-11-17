@@ -1,22 +1,17 @@
 APClips
-Academia.edu
 Archive.org
-CGTrader
-Coders Rank
+DeviantArt
+Freelancer
 GNOME VCS
 Giphy
-Harvard Scholar
-Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
-xHamster
