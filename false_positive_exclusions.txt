@@ -1,6 +1,7 @@
 APClips
 Archive.org
-DeviantArt
+Audiojungle
+CGTrader
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -10,9 +11,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
-Wordnik
 YandexMusic
 opennet
 svidbook
