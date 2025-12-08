@@ -6,6 +6,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -16,3 +17,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
