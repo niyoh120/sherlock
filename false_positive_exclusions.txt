@@ -3,14 +3,17 @@ Archive.org
 Code Snippet Wiki
 Coders Rank
 DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
+Smule
 Splice
 Spotify
 Trovo
@@ -18,4 +21,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
