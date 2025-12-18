@@ -6,9 +6,10 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -19,3 +20,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
