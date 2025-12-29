@@ -1,5 +1,5 @@
 APClips
-Archive.org
+Apple Discussions
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -12,7 +12,6 @@ PocketStars
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
