@@ -2,12 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 Fandom
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -21,3 +21,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
