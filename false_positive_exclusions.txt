@@ -1,11 +1,13 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
+DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
 PocketStars
@@ -17,9 +19,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
