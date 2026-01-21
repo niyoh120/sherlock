@@ -1,9 +1,7 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -26,4 +24,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
