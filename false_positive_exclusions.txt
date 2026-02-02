@@ -3,15 +3,15 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Minecraft
+LushStories
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -24,4 +24,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
