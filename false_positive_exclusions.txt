@@ -6,9 +6,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
-LushStories
+LessWrong
 PocketStars
 Realmeye
 Reddit
