@@ -2,12 +2,14 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LessWrong
 LushStories
+Minecraft
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -20,7 +22,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-eintracht
+YandexMusic
 mercadolivre
 opennet
 phpRU
