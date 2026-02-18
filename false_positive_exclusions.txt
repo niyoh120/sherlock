@@ -9,8 +9,8 @@ Hubski
 LessWrong
 LushStories
 Minecraft
-OurDJTalk
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -24,6 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
