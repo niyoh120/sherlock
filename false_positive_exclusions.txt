@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -8,15 +7,15 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
-Minecraft
+OurDJTalk
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
