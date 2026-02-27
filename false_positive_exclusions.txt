@@ -11,6 +11,7 @@ LushStories
 Minecraft
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -25,6 +26,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
