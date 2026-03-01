@@ -1,12 +1,15 @@
 APClips
 Archive.org
-DeviantArt
+Carbonmade
+Codolio
 GNOME VCS
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -18,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -26,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
