@@ -1,4 +1,5 @@
 APClips
+Anilist
 Archive.org
 Codolio
 DeviantArt
@@ -18,15 +19,16 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
