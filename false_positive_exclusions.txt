@@ -1,11 +1,10 @@
 APClips
-Anilist
 Archive.org
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -21,14 +20,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
