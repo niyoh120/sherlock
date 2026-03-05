@@ -4,7 +4,6 @@ Codolio
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
