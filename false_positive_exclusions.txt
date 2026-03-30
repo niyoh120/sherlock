@@ -5,11 +5,9 @@ DeviantArt
 DigitalSpy
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 PocketStars
@@ -28,8 +26,8 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
