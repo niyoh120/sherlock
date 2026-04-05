@@ -9,7 +9,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Pornhub
@@ -32,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
