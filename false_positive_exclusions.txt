@@ -3,11 +3,9 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -37,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
