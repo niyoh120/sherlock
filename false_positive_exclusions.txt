@@ -4,20 +4,14 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
-Itch.io
-LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +24,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Venmo
 Weblate
 YandexMusic
 dailykos
@@ -38,5 +31,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+programming.dev
 svidbook
-xHamster
