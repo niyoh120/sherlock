@@ -3,16 +3,17 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+ArtStation
 Bandcamp
 Codolio
 Discord.bio
+Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -35,3 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
