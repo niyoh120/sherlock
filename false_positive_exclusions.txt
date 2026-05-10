@@ -7,7 +7,6 @@ Codolio
 Discord.bio
 Envato Forum
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -26,12 +25,12 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
