@@ -10,6 +10,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Motherless
 Patched
 Rarible
@@ -25,7 +26,6 @@ Spotify
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 igromania
