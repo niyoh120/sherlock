@@ -1,16 +1,15 @@
 7Cups
 Airliners
 Apple Discussions
-Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Motherless
 Patched
 Rarible
@@ -23,11 +22,13 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
