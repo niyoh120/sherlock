@@ -4,6 +4,8 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +15,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -24,6 +25,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Trovo
@@ -39,5 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
