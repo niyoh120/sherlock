@@ -6,7 +6,6 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,23 +14,21 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
+LiveJournal
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
