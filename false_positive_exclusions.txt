@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,13 +12,13 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Houzz
 Hubski
-Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -43,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
