@@ -1,23 +1,22 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
 Codolio
-Crevado
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
