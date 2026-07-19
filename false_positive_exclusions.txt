@@ -3,10 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
-Archive.org
 Bandcamp
-Blogger
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -16,10 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
