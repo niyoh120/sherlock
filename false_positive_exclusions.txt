@@ -1,11 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -22,14 +21,12 @@ Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -42,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
