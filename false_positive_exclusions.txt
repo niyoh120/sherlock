@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,13 +14,13 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gravatar
+GitHub
 HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+LiveJournal
 Odysee
 PCGamer
 Patched
