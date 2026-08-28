@@ -1,6 +1,5 @@
 7Cups
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -14,6 +13,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -31,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
