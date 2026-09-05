@@ -4,6 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -12,15 +14,14 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+Minecraft
 ObservableHQ
+Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -44,4 +45,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
