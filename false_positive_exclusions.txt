@@ -15,12 +15,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +29,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
