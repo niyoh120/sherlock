@@ -1,13 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
-Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -19,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -41,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -50,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
