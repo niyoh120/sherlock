@@ -1,9 +1,7 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 Blogger
@@ -24,7 +22,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -39,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -55,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
