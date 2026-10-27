@@ -1,10 +1,8 @@
-7Cups
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -24,7 +22,6 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Rarible
 Realmeye
 Reddit
