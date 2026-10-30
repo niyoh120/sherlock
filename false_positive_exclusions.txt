@@ -33,16 +33,14 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
