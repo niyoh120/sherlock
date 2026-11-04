@@ -1,13 +1,14 @@
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -31,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Velomania
@@ -41,6 +41,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
