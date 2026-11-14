@@ -6,11 +6,8 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
-DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -19,11 +16,14 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,9 +32,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Smule
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -49,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
