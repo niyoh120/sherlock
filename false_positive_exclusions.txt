@@ -19,9 +19,12 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -37,6 +40,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
