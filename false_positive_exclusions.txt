@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,6 +13,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,6 +34,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -42,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
