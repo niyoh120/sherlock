@@ -1,19 +1,20 @@
-APClips
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Audiojungle
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -32,11 +33,9 @@ Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
